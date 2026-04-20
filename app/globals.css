@@ -73,8 +73,13 @@ body {
   color: #888;
 }
 
-@media (max-width: 640px) {
-  .sidebar { display: none; }
-  .desktop-sidebar { display: none; }
+/* 桌機：隱藏漢堡 */
+.mobile-menu { display: none !important; }
+
+/* 手機：隱藏左側欄，顯示漢堡，移除左邊距 */
+@media (max-width: 768px) {
+  .sidebar { display: none !important; }
+  .desktop-sidebar { display: none !important; }
   .main-content { margin-left: 0 !important; }
+  .mobile-menu { display: block !important; }
 }

@@ -90,6 +90,7 @@ export function MobileMenuButton() {
     <>
       <button
         onClick={() => setOpen(o => !o)}
+        className="mobile-menu"
         style={{
           position: "fixed", bottom: "20px", right: "20px", zIndex: 200,
           width: "44px", height: "44px",
