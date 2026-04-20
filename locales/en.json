@@ -1,0 +1,15 @@
+{
+  "nav.notes": "Notes",
+  "nav.games": "Games",
+  "nav.other": "Other",
+  "notes.bookshelf": "Bookshelf",
+  "notes.search": "Search articles...",
+  "notes.tags": "Tags",
+  "notes.all": "All",
+  "notes.chapters": "articles",
+  "notes.back": "← Back",
+  "notes.no_results": "No results found",
+  "notes.no_translation": "This article is not available in English. Showing default version.",
+  "article.prev": "Previous",
+  "article.next": "Next"
+}

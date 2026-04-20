@@ -1,0 +1,14 @@
+{
+  "game-design":  { "zh-TW": "遊戲設計", "en": "Game Design",  "zh-CN": "游戏设计" },
+  "mda":          { "zh-TW": "MDA",      "en": "MDA",          "zh-CN": "MDA" },
+  "framework":    { "zh-TW": "框架",     "en": "Framework",    "zh-CN": "框架" },
+  "mechanics":    { "zh-TW": "機制",     "en": "Mechanics",    "zh-CN": "机制" },
+  "definition":   { "zh-TW": "定義",     "en": "Definition",   "zh-CN": "定义" },
+  "theory":       { "zh-TW": "理論",     "en": "Theory",       "zh-CN": "理论" },
+  "designer":     { "zh-TW": "設計師",   "en": "Designer",     "zh-CN": "设计师" },
+  "lens":         { "zh-TW": "視角",     "en": "Lens",         "zh-CN": "视角" },
+  "creativity":   { "zh-TW": "創作",     "en": "Creativity",   "zh-CN": "创作" },
+  "player":       { "zh-TW": "玩家",     "en": "Player",       "zh-CN": "玩家" },
+  "experience":   { "zh-TW": "體驗",     "en": "Experience",   "zh-CN": "体验" },
+  "emotion":      { "zh-TW": "情感",     "en": "Emotion",      "zh-CN": "情感" }
+}

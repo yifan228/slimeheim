@@ -1,0 +1,15 @@
+{
+  "nav.notes": "筆記",
+  "nav.games": "遊戲作品",
+  "nav.other": "其他",
+  "notes.bookshelf": "書櫃",
+  "notes.search": "搜尋文章...",
+  "notes.tags": "標籤",
+  "notes.all": "全部",
+  "notes.chapters": "篇",
+  "notes.back": "← 返回",
+  "notes.no_results": "沒有找到符合的內容",
+  "notes.no_translation": "此文章暫無繁體中文版本，以下為預設版本",
+  "article.prev": "上一篇",
+  "article.next": "下一篇"
+}

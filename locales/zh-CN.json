@@ -1,0 +1,15 @@
+{
+  "nav.notes": "笔记",
+  "nav.games": "游戏作品",
+  "nav.other": "其他",
+  "notes.bookshelf": "书柜",
+  "notes.search": "搜索文章...",
+  "notes.tags": "标签",
+  "notes.all": "全部",
+  "notes.chapters": "篇",
+  "notes.back": "← 返回",
+  "notes.no_results": "没有找到符合的内容",
+  "notes.no_translation": "此文章暂无简体中文版本，以下为默认版本",
+  "article.prev": "上一篇",
+  "article.next": "下一篇"
+}
